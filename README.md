@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+intelligent+and+data-driven+systems;Exploring+AI%2C+Computer+Vision+and+Data+Engineering;Turning+ideas+into+real-world+software" alt="Typing SVG" />
 </a>
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=MuhamedEminKrd&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/MuhamedEminKrd?label=Followers&style=for-the-badge&color=06b6d4" alt="GitHub followers" />
-
 </div>
 
 ---
