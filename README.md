@@ -134,7 +134,17 @@ I am a **Software Engineering student and aspiring AI Engineer** focused on buil
 
 ---
 
-## 🏆 Experience & Achievements
+## 💼 Experience & Achievements
+
+### 🧪 Internship Experience
+
+- **İNCİSOFT — Fırat Teknokent**  
+  Software engineering internship experience in a technology company environment.
+
+- **BİLGE BİLİŞİM — Fırat Teknokent**  
+  Software engineering internship experience focused on professional software development practices.
+
+### 🏆 Achievements & Activities
 
 - 🧪 **Microsoft AI Innovators Internship Program** — completed during Summer 2026
 - 🧠 **Huawei & Türkiye Yapay Zeka Akademisi Data Science and Machine Learning Bootcamp** — successfully completed
